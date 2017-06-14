@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bijlmer_adventure", "bijlmer_adventure.csproj", "{454C7E2D-38D5-AB9A-5115-673FE23C0238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454C7E2D-38D5-AB9A-5115-673FE23C0238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454C7E2D-38D5-AB9A-5115-673FE23C0238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454C7E2D-38D5-AB9A-5115-673FE23C0238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454C7E2D-38D5-AB9A-5115-673FE23C0238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
